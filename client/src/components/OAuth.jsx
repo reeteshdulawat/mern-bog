@@ -41,4 +41,4 @@ export default function OAuth() {
         Continue with Google
     </Button>
   )
-}
+};
