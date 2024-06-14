@@ -9,3 +9,15 @@ body{
 .ql-editor{
     font-size: 1.05rem;
 }
+
+.navbar {
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.border-gray-300, .border-gray-200 {
+    border: none;
+}
+
+.google-auth {
+    border: 1px solid #e6e6e6;
+}

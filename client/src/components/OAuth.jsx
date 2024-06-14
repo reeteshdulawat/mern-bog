@@ -36,7 +36,7 @@ export default function OAuth() {
       }
     }
   return (
-    <Button type='button' gradientDuoTone='pinkToOrange' outline onClick={handleGoogleClick}>
+    <Button type='button' className='google-auth' color='gray' onClick={handleGoogleClick}>
         <FcGoogle className='w-6 h-5 mr-2'/>
         Continue with Google
     </Button>
